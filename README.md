@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋 Hi, I'm Basel Mohammed
 
-<!--
-**basselmo/basselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring front-end developer learning and building projects with HTML, CSS, and JavaScript.
+I focus on creating clean, responsive, and user-friendly web pages.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Improving my JavaScript skills
+
+Building small projects for my portfolio
+
+Learning modern front-end practices
+
+🛠 Tech Stack
+
+HTML | CSS | JavaScript
+
+📌 Goals
+
+Become confident in front-end development
+
+Start freelancing with real projects
+
+Learn React soon
